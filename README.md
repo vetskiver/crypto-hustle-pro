@@ -45,8 +45,7 @@ In this project, I:
 
 ## Demo
 
-Explore an example of what you'll be building in this lab here:
-
+A demo of what I built
 ![Video Walkthrough](https://github.com/vetskiver/crypto-hustle/blob/master/crypto-hustle-demo.gif)
 
 ## Getting Started
