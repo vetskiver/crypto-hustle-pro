@@ -36,12 +36,12 @@ CryptoInfo is a web application designed to display comprehensive information ab
 
 ## Goals
 
-By the end of this project, you will be able to:
+In this project, I:
 
-- Fetch and display a list of at least 30 cryptocurrencies, including their images, names, and prices in USD.
-- Implement a search feature to filter cryptocurrencies by symbol.
-- Display the top 10 cryptocurrencies by market capitalization on a separate pane.
-- Ensure real-time updates and dynamic interaction with the cryptocurrency data.
+- Successfully fetched and displayed a list of at least 30 cryptocurrencies, including their images, names, and prices in USD.
+- Implemented a search feature to filter cryptocurrencies by symbol.
+- Displayed the top 10 cryptocurrencies by market capitalization on a separate pane.
+- Ensured real-time updates and dynamic interaction with the cryptocurrency data.
 
 ## Demo
 
