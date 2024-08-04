@@ -46,7 +46,7 @@ In this project, I:
 ## Demo
 
 A demo of what I built
-![Video Walkthrough](https://github.com/vetskiver/crypto-hustle/blob/master/crypto-hustle-demo.gif)
+![Video Walkthrough](https://github.com/vetskiver/crypto-info-pro/blob/main/crypto-hustle-pro-demo.gif)
 
 ## Getting Started
 
