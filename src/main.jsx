@@ -12,11 +12,11 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
+          <Route path="/" element={<Layout />} >
           <Route index element={<App />} />
           <Route path="coindetails/:symbol" element={<DetailView />} />
           <Route path="*" element={<NotFound />} />
-        </Route>
+          </Route>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,

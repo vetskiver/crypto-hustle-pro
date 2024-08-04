@@ -70,7 +70,7 @@ const CoinChart = ({ symbol, market }) => {
               stroke="#00c49f"
               activeDot={{ r: 5 }}
             />
-            <CartesianGrid strokeDasharray="5 5" stroke="#555" /> {/}
+            <CartesianGrid strokeDasharray="5 5" stroke="#555" /> {}
             <XAxis dataKey="time" interval={2} angle={20} dx={20} tick={{ fill: '#ddd' }}>
               <Label value="Date and Time" offset={0} position="insideBottom" fill="#fff" />
             </XAxis>
